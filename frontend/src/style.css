@@ -2,8 +2,7 @@
    Palette: Slate White #F8FAFC | Deep Slate #0F172A | Emerald #059669 | Crimson #DC2626 | Amber #D97706
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
-
+/* Offline-first font stack with fallback */
 :root {
   --cp-bg:        #F8FAFC;
   --cp-panel:     #0F172A;
